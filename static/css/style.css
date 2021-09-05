@@ -1,0 +1,16 @@
+
+body {
+  background-color:aliceblue ;
+}
+
+
+.jumbotron {
+  margin-top: 20px;  
+  background-image: url(https://images.pexels.com/photos/4299443/pexels-photo-4299443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: 100%;
+    text-align: center;
+    color: black;
+    font-style:initial;
+  }
+
+
